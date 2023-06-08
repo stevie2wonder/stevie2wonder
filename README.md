@@ -15,7 +15,7 @@
 </p>
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-doroninivan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/freee_ysl) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zxcqwe.abuzer1@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DoroninIvan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/freee_ysl) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zxcqwe.abuzer1@gmail.com)
 
 ---
 
